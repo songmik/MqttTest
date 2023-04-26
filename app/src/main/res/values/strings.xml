@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MqttTest</string>
+
+    <string name="mqtt_broker_url">mqtt://222.239.254.121:1883</string>
+    <string name="mqtt_broker_username">go_with</string>
+    <string name="mqtt_broker_password">mtis2()23</string>
+    <string name="system_server"></string>
+</resources>
